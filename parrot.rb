@@ -10,6 +10,6 @@ end
 
 def parrot
   phrase = ""
-  return "Pretty bird!"
-  "Squawk!"
+  return "Squawk!"
+  "Pretty bird!"
 end
